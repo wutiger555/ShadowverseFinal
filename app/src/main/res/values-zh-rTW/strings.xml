@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">物件導向遊戲 - 捕捉寶可夢</string>
+    <string name="textNoPokemon">沒有寶可夢</string>
+    <string name="textMyPokemons">我的百寶箱</string>
+    <string name="textBallHunt">精靈球</string>
+    <string name="textMyPokemonHunt">我的寶可夢</string>
+    <string name="textPokemonDodge">%s 閃過了</string>
+    <string name="textPokemonRunAway">%s 戰勝逃跑了</string>
+    <string name="textPokemonCaught">%s 被捕獲</string>
+</resources>
